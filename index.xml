@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QA Engineer</title>
+    <link>https://ksantd.ru/</link>
+    <description>Recent content on QA Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ksantd.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA Engineer</title>
+      <link>https://ksantd.ru/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksantd.ru/home/</guid>
+      <description>About Me I am a QA Engineer with expertise in manual and automated testing. I am passionate about ensuring the highest quality products for my clients.
+Contact Information Email: forJobs@ksantd.ru LinkedIn: https://www.linkedin.com/in/evgeniy-shaykin-a663a018a GitHub: https://github.com/sers88 </description>
+    </item>
+    
+  </channel>
+</rss>
